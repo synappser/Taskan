@@ -7,11 +7,11 @@
 
 Too big a goal, if you can break it down into easily chewable tasks you're half-way done! A simple list is often enough to get you started.
 
-**Taskan** is a lightweight task outliner that organizes and auto-formats your projects in tasks, notes and tags. It takes its inspiration from Hog Bay's **TaskPaper** in staying plain-text based with no vendor lock-in. You can always open files saved in Taskan in any text editor including TaskPaper.
+**Taskan** is a lightweight task outliner that organizes and auto-formats your projects in tasks, notes and tags. It takes its inspiration from Hog Bay's **TaskPaper** in staying plain-text based with no vendor lock-in. You can always open files saved in Taskan in any text editor including TaskPaper. If you prefer keyboard-driven navigation and editing, you can also enable Vim mode in the Preferences Editor pane.
 
-**Taskan** is still brittle. It currently lacks its kan(ban) part and the undo stack is partially broken. So don't use it for anything serious yet!
+**Taskan** is still brittle. It currently lacks its kan(ban) part and the undo stack is partially broken. So don't use it for anything serious yet ;)
 
-This first beta release is mostly meant to assess the general interest before diving into a more involved fine-tuning of the idea. It's more of a proof of concept than a true beta. Consider giving it a star if you like the concept.
+This beta release is mostly meant to assess the general interest before diving into a more involved fine-tuning of the idea. It's more of a proof of concept than a true beta. Consider giving it a star if you like the concept.
 
 [Read more...](https://synappser.github.io/apps/taskan/)
 
@@ -35,13 +35,15 @@ Yes, Taskan is free while it's in beta.
 - When the Open Recent menu item is empty it opens a new Untitled document instead
 - Otherwise, no disruption comes from untimely opening of Untitled documents
 - Clicking on the Pin icon in the toolbar keeps a document always on top
+- If you prefer keyboard-driven navigation and editing, a Vim mode is available (in the Preferences Editor pane)
 - A detailed tutorial is displayed on first launch (also available through the Help menu)
 
 ## Roadmap
 
+- [x] Add a Vim mode
 - [ ] Add a collapse/un-collapse all (collapse all but the selected project, etc.)
 - [ ] Add option to keep a dragged task highlighted
-- [ ] Make space for dragged task if dropped on an another task
+- [ ] Make space for dragged task if dropped on another task
 - [ ] Add more tags such as @due, @next, @waiting, etc.
 - [ ] Add a DatePicker popup for the @due tag
 - [ ] Add Reminders through a @reminder tag
@@ -59,9 +61,10 @@ Yes, Taskan is free while it's in beta.
 
 Mac computer with an Intel or an Apple silicon processor (macOS 11.0+)
 
-## Screenshot
+## Screenshots
 
-<img src="https://synappser.github.io/images/betas/zoom-tk.png" width="526" />
+<img src="https://synappser.github.io/images/betas/zoom-tk-01.png" width="526" />
+<img src="https://synappser.github.io/images/betas/zoom-tk-02.png" width="526" />
 
 ## Support
 
