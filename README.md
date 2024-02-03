@@ -30,7 +30,7 @@ Yes, Taskan is free while it's in beta.
 ## Features
 
 - Taskan extends other plain-text based outliners such as TaskPaper by focusing on usability
-- It comes bundled as a handy menu bar application with an easily identifiable check mark icon
+- It comes bundled as a handy menu bar application with an easily identifiable check mark symbol icon
 - Clicking on the menu bar icon opens the most recent document (with the last selected project)
 - When the Open Recent menu item is empty it opens a new Untitled document instead
 - Otherwise, no disruption comes from untimely opening of Untitled documents
